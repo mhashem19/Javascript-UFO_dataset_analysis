@@ -1,1 +1,1 @@
-# javascript-challenge
+This repository contains code that will create  tables dynamically based upon a datasets provided. The code allows the users to filter the tables data for specific values. JavaScript, HTML, and CSS, and D3.js used on our web pages.
